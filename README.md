@@ -6,3 +6,5 @@ Expected Output (Đầu ra mong muốn)
 Hello World
 Hi World
 ```
+
+*Hướng dẫn*: Dùng thêm các tham số `-sourcepath` và `-classpath`
